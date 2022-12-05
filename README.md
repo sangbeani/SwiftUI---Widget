@@ -1,4 +1,4 @@
-# Widget-SwoftUI
+# Widget-SwiftUI
 
 [ 설명 ]
 
